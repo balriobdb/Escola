@@ -19,6 +19,7 @@ public class Resultado extends javax.swing.JFrame {
      */
     public Resultado() {
         initComponents();
+        this.setLocationRelativeTo(null);
     }
 
     public Resultado(Aluno aluno) {
